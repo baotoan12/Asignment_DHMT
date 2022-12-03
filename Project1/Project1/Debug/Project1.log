@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\tonhuynh\Desktop\ĐHMT\ass\Project1\Project1\Source.cpp(1670,8): warning C4101: 'fAngle': unreferenced local variable
+C:\Users\tonhuynh\Desktop\ĐHMT\ass\Project1\Project1\Source.cpp(1669,8): warning C4101: 'fRInc': unreferenced local variable
+  Project1.vcxproj -> C:\Users\tonhuynh\Desktop\ĐHMT\ass\Project1\Debug\Project1.exe
