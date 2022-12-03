@@ -1,0 +1,14 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol __imp_glBegin referenced in function "void __cdecl mydisplay(void)" (?mydisplay@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function "void __cdecl mydisplay(void)" (?mydisplay@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glColor3f referenced in function "void __cdecl mydisplay(void)" (?mydisplay@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glEnd referenced in function "void __cdecl mydisplay(void)" (?mydisplay@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glFlush referenced in function "void __cdecl mydisplay(void)" (?mydisplay@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glVertex2f referenced in function "void __cdecl mydisplay(void)" (?mydisplay@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+Source.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\opengl32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glu32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\tonhuynh\Desktop\ĐHMT\ass\assigment\x64\Debug\assigment.exe : fatal error LNK1120: 9 unresolved externals
